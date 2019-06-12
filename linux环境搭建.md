@@ -105,6 +105,4 @@ firewall-cmd --reload
 
 firewall-cmd --list-all
 
-[http://47.107.252.230](http://47.107.252.230/)
-
 /apps/svr/elk/logstash/conf.d
