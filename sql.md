@@ -69,5 +69,7 @@ select * from 表名 where 列名 like '%[吖 - 座]%'
 select * from 表名 where 列名 like '%[a-z]%' 
 三、包含纯数字
 select * from 表名 where 列名 like '%[0-9]%'
+
+
 ```
 
